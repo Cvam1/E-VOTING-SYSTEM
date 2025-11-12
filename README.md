@@ -1,4 +1,4 @@
-#E-VOTING-SYSTEM
+E-VOTING-SYSTEM
 
 1️⃣ Project Title 
 🗳️ E-Voting System
